@@ -1,0 +1,7 @@
+C:\Users\Ajai\Projects\C#\Project Euler\Problem_1\Problem_1\bin\Debug\Problem_1.exe.config
+C:\Users\Ajai\Projects\C#\Project Euler\Problem_1\Problem_1\bin\Debug\Problem_1.exe
+C:\Users\Ajai\Projects\C#\Project Euler\Problem_1\Problem_1\bin\Debug\Problem_1.pdb
+C:\Users\Ajai\Projects\C#\Project Euler\Problem_1\Problem_1\obj\Debug\Problem_1.csprojResolveAssemblyReference.cache
+C:\Users\Ajai\Projects\C#\Project Euler\Problem_1\Problem_1\obj\Debug\Problem_1.csproj.CoreCompileInputs.cache
+C:\Users\Ajai\Projects\C#\Project Euler\Problem_1\Problem_1\obj\Debug\Problem_1.exe
+C:\Users\Ajai\Projects\C#\Project Euler\Problem_1\Problem_1\obj\Debug\Problem_1.pdb
